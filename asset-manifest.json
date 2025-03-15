@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/teamwork-AD/static/css/main.96b1ac8d.css",
+    "main.js": "/teamwork-AD/static/js/main.744fe401.js",
+    "static/js/453.ae2a60de.chunk.js": "/teamwork-AD/static/js/453.ae2a60de.chunk.js",
+    "static/media/p21.png": "/teamwork-AD/static/media/p21.4daec7495d4a602a4976.png",
+    "static/media/product4.jpg": "/teamwork-AD/static/media/product4.4daec7495d4a602a4976.jpg",
+    "static/media/product3.jpg": "/teamwork-AD/static/media/product3.0c661dfdf75b73004320.jpg",
+    "static/media/product8.jpg": "/teamwork-AD/static/media/product8.ef676f02691dbd4e288d.jpg",
+    "static/media/product2.jpg": "/teamwork-AD/static/media/product2.5cafa416f970dfff7301.jpg",
+    "static/media/product1.jpg": "/teamwork-AD/static/media/product1.7bf61654c6de5b31a3ee.jpg",
+    "static/media/p20.png": "/teamwork-AD/static/media/p20.a5363c687c629405fceb.png",
+    "static/media/product12.jpg": "/teamwork-AD/static/media/product12.d17c5a69bdbeae55b645.jpg",
+    "static/media/product9.jpg": "/teamwork-AD/static/media/product9.d07d21448d6644e13f4b.jpg",
+    "static/media/woman-shopping1.jpg": "/teamwork-AD/static/media/woman-shopping1.4752e8e3b9c71ff58b9e.jpg",
+    "static/media/product5.jpg": "/teamwork-AD/static/media/product5.6c34a1bf9836fb7337ce.jpg",
+    "static/media/shopaholic-woman-with-colorful-bags-white_79295-19903.png": "/teamwork-AD/static/media/shopaholic-woman-with-colorful-bags-white_79295-19903.2f2afbd5270f61837c6c.png",
+    "static/media/istockphoto-1303509809-612x612.jpg": "/teamwork-AD/static/media/istockphoto-1303509809-612x612.1c5216956816cd26b754.jpg",
+    "index.html": "/teamwork-AD/index.html",
+    "main.96b1ac8d.css.map": "/teamwork-AD/static/css/main.96b1ac8d.css.map",
+    "main.744fe401.js.map": "/teamwork-AD/static/js/main.744fe401.js.map",
+    "453.ae2a60de.chunk.js.map": "/teamwork-AD/static/js/453.ae2a60de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96b1ac8d.css",
+    "static/js/main.744fe401.js"
+  ]
+}
