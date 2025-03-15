@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Hero.css"
 import Hiiimg from "../Assets/istockphoto-1303509809-612x612.jpg";
-import shopgirl from "../Assets/young-beautiful-girl-bright-dress-holding-different-shopping-bags-isolated-white-background_224078-4184.jpg";
+import shopgirl from "../Assets/woman-shopping1.jpg";
 
 function Hero() {
   return (
