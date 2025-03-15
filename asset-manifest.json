@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/teamwork-AD/static/css/main.96b1ac8d.css",
-    "main.js": "/teamwork-AD/static/js/main.dd4423e5.js",
+    "main.js": "/teamwork-AD/static/js/main.93457a60.js",
     "static/js/453.ae2a60de.chunk.js": "/teamwork-AD/static/js/453.ae2a60de.chunk.js",
     "static/media/p21.png": "/teamwork-AD/static/media/p21.4daec7495d4a602a4976.png",
     "static/media/product4.jpg": "/teamwork-AD/static/media/product4.4daec7495d4a602a4976.jpg",
@@ -18,11 +18,11 @@
     "static/media/istockphoto-1303509809-612x612.jpg": "/teamwork-AD/static/media/istockphoto-1303509809-612x612.1c5216956816cd26b754.jpg",
     "index.html": "/teamwork-AD/index.html",
     "main.96b1ac8d.css.map": "/teamwork-AD/static/css/main.96b1ac8d.css.map",
-    "main.dd4423e5.js.map": "/teamwork-AD/static/js/main.dd4423e5.js.map",
+    "main.93457a60.js.map": "/teamwork-AD/static/js/main.93457a60.js.map",
     "453.ae2a60de.chunk.js.map": "/teamwork-AD/static/js/453.ae2a60de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96b1ac8d.css",
-    "static/js/main.dd4423e5.js"
+    "static/js/main.93457a60.js"
   ]
 }
